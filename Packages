@@ -1,0 +1,60 @@
+Package: cylonnet
+Architecture: amd64
+Version: 0.18.0+202610281249
+Priority: optional
+Section: misc
+Maintainer: CylonNet OS <cylonnet@localhost>
+Installed-Size: 5380
+Depends: python3, librsvg2-bin, potrace, libcap2-bin, fontconfig, hunspell-es, aspell-es, hyphen-es, mythes-es, python3-docx, python3-openpyxl, python3-xlsxwriter, python3-pandas, python3-odf, python3-pypdf, python3-reportlab, python3-markdown, poppler-utils, qpdf
+Recommends: ansible, anydesk, ark, arping, arp-scan, aspell-es, audacity, avahi-utils, bind9-dnsutils, breeze-gtk-theme, btrfs-progs, console-setup, cryptsetup, curl, docker-compose, docker.io, dolphin, dolphin-nextcloud, dosfstools, ethtool, firefox-esr, fonts-noto-core, fping, git, google-chrome-stable, hunspell-es, hyphen-es, i965-va-driver, intel-media-va-driver, ipcalc, iperf3, kate, kcalc, kde-config-gtk-style, kde-config-sddm, kde-plasma-desktop, kde-spectacle, keyboard-configuration, konsole, kscreen, kwin-wayland, kwin-x11, libcap2-bin, libnotify-bin, librsvg2-bin, libsecret-tools, lldpd, locales, make, mesa-va-drivers, mesa-vulkan-drivers, minicom, mtr-tiny, mythes-es, nbtscan, netcat-openbsd, net-tools, network-manager, nextcloud-desktop, nmap, nodejs, openssh-client, os-prober, picocom, pipx, plasma-nm, plasma-pa, plasma-systemmonitor, poppler-utils, potrace, powerdevil, putty, python3, python3-docx, python3-markdown, python3-netmiko, python3-odf, python3-openpyxl, python3-pandas, python3-paramiko, python3-pip, python3-pypdf, python3-reportlab, python3-requests, python3-venv, python3-xlsxwriter, qpdf, qrencode, sddm, sddm-theme-breeze, snmp, socat, speedtest-cli, sudo, systemsettings, tcpdump, telnet, traceroute, tshark, va-driver-all, vainfo, wget, whois, wireguard-tools, wireshark, x11-xserver-utils, xfsprogs, zenmap, zram-tools
+Filename: ./cylonnet_0.18.0+202610281249_amd64.deb
+Size: 956260
+MD5sum: 70a0e207d8871b04a4799c0186ad8e82
+SHA1: 910cf1a6a198faf5d44cd7801272d09274effe53
+SHA256: 415543f8e4431464a2490a9dcd9b6897f4d4d232ae1973140c29ecad55a08e2e
+SHA512: 457d934ce03c66dfd7991fe78a56a19529cc5d1ee1fbbd5e25f2c349ca62e3ca3edc663d6d36449360d36dfa57ae8ccb11a57cde253cf7f8d5d27895fb8b8dcc
+Description: CylonNet OS: tema, NetTopo, asistente de red y herramientas propias
+ Todo lo propio de CylonNet OS sobre Debian 13: el tema Oblivion de Plasma (fondo, inicio de sesión,
+ bloqueo, íconos, widgets), NetTopo y su MCP, el asistente de red con Claude, la guía y los
+ comandos cylonnet-*. Se actualiza con apt desde el repositorio de CylonNet.
+
+Package: cylonnet
+Architecture: amd64
+Version: 0.18.0+202610281253
+Priority: optional
+Section: misc
+Maintainer: CylonNet OS <cylonnet@localhost>
+Installed-Size: 5380
+Depends: python3, librsvg2-bin, potrace, libcap2-bin, fontconfig, hunspell-es, aspell-es, hyphen-es, mythes-es, python3-docx, python3-openpyxl, python3-xlsxwriter, python3-pandas, python3-odf, python3-pypdf, python3-reportlab, python3-markdown, poppler-utils, qpdf
+Recommends: ansible, anydesk, ark, arping, arp-scan, aspell-es, audacity, avahi-utils, bind9-dnsutils, breeze-gtk-theme, btrfs-progs, console-setup, cryptsetup, curl, docker-compose, docker.io, dolphin, dolphin-nextcloud, dosfstools, ethtool, firefox-esr, fonts-noto-core, fping, git, google-chrome-stable, hunspell-es, hyphen-es, i965-va-driver, intel-media-va-driver, ipcalc, iperf3, kate, kcalc, kde-config-gtk-style, kde-config-sddm, kde-plasma-desktop, kde-spectacle, keyboard-configuration, konsole, kscreen, kwin-wayland, kwin-x11, libcap2-bin, libnotify-bin, librsvg2-bin, libsecret-tools, lldpd, locales, make, mesa-va-drivers, mesa-vulkan-drivers, minicom, mtr-tiny, mythes-es, nbtscan, netcat-openbsd, net-tools, network-manager, nextcloud-desktop, nmap, nodejs, openssh-client, os-prober, picocom, pipx, plasma-nm, plasma-pa, plasma-systemmonitor, poppler-utils, potrace, powerdevil, putty, python3, python3-docx, python3-markdown, python3-netmiko, python3-odf, python3-openpyxl, python3-pandas, python3-paramiko, python3-pip, python3-pypdf, python3-reportlab, python3-requests, python3-venv, python3-xlsxwriter, qpdf, qrencode, sddm, sddm-theme-breeze, snmp, socat, speedtest-cli, sudo, systemsettings, tcpdump, telnet, traceroute, tshark, va-driver-all, vainfo, wget, whois, wireguard-tools, wireshark, x11-xserver-utils, xfsprogs, zenmap, zram-tools
+Filename: ./cylonnet_0.18.0+202610281253_amd64.deb
+Size: 956160
+MD5sum: 13faafd0527b7c59ed3e6502e3792ac8
+SHA1: cc95875bc6c00de872bf980b7c897508565716bc
+SHA256: b327d60f563d8eb359dce23a645e7447574c830ffdb41fd62351ae60e99a4609
+SHA512: b3dac618b864ccc411136a952063f23c6f7a608b753e1a9a5a8a8e9686c94708780af8f62a9037297b0c4fb762bf66ef91c0ac4f94e1782861c7d617aabe26f1
+Description: CylonNet OS: tema, NetTopo, asistente de red y herramientas propias
+ Todo lo propio de CylonNet OS sobre Debian 13: el tema Oblivion de Plasma (fondo, inicio de sesión,
+ bloqueo, íconos, widgets), NetTopo y su MCP, el asistente de red con Claude, la guía y los
+ comandos cylonnet-*. Se actualiza con apt desde el repositorio de CylonNet.
+
+Package: cylonnet
+Architecture: amd64
+Version: 0.18.0+202610281347
+Priority: optional
+Section: misc
+Maintainer: CylonNet OS <cylonnet@localhost>
+Installed-Size: 5388
+Depends: python3, librsvg2-bin, potrace, libcap2-bin, fontconfig, hunspell-es, aspell-es, hyphen-es, mythes-es, python3-docx, python3-openpyxl, python3-xlsxwriter, python3-pandas, python3-odf, python3-pypdf, python3-reportlab, python3-markdown, poppler-utils, qpdf
+Recommends: ansible, anydesk, ark, arping, arp-scan, aspell-es, audacity, avahi-utils, bind9-dnsutils, breeze-gtk-theme, btrfs-progs, console-setup, cryptsetup, curl, docker-compose, docker.io, dolphin, dolphin-nextcloud, dosfstools, ethtool, firefox-esr, fonts-noto-core, fping, git, google-chrome-stable, hunspell-es, hyphen-es, i965-va-driver, intel-media-va-driver, ipcalc, iperf3, kate, kcalc, kde-config-gtk-style, kde-config-sddm, kde-plasma-desktop, kde-spectacle, keyboard-configuration, konsole, kscreen, kwin-wayland, kwin-x11, libcap2-bin, libnotify-bin, librsvg2-bin, libsecret-tools, lldpd, locales, make, mesa-va-drivers, mesa-vulkan-drivers, minicom, mtr-tiny, mythes-es, nbtscan, netcat-openbsd, net-tools, network-manager, nextcloud-desktop, nmap, nodejs, openssh-client, os-prober, picocom, pipx, plasma-nm, plasma-pa, plasma-systemmonitor, poppler-utils, potrace, powerdevil, putty, python3, python3-docx, python3-markdown, python3-netmiko, python3-odf, python3-openpyxl, python3-pandas, python3-paramiko, python3-pip, python3-pypdf, python3-reportlab, python3-requests, python3-venv, python3-xlsxwriter, qpdf, qrencode, sddm, sddm-theme-breeze, snmp, socat, speedtest-cli, sudo, systemsettings, tcpdump, telnet, traceroute, tshark, va-driver-all, vainfo, wget, whois, wireguard-tools, wireshark, x11-xserver-utils, xfsprogs, zenmap, zram-tools
+Filename: ./cylonnet_0.18.0+202610281347_amd64.deb
+Size: 957384
+MD5sum: 7a8f96b6ce9b3830dd14c2f842e5c231
+SHA1: 1015ede477116c76f0fff45bfaf7b9e257cc872a
+SHA256: ccb2f1f5749ccec5ee864c84e67c0e018a293b2aad53cbf50562cecb96a3e1b9
+SHA512: b059eb34ff95d5430f87d0149bdf54b0d8242aa8cffdce4b55bf7204680a2ead7d203de4b2632cb60990bf1e56b3e75ea6df7f7c4dcae6e8e5c208b5f657c367
+Description: CylonNet OS: tema, NetTopo, asistente de red y herramientas propias
+ Todo lo propio de CylonNet OS sobre Debian 13: el tema Oblivion de Plasma (fondo, inicio de sesión,
+ bloqueo, íconos, widgets), NetTopo y su MCP, el asistente de red con Claude, la guía y los
+ comandos cylonnet-*. Se actualiza con apt desde el repositorio de CylonNet.
+

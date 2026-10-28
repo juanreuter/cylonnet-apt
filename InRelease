@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Wed, 28 Oct 2026 13:47:31 +0000
+Description: Actualizaciones de CylonNet OS
+Label: CylonNet
+Origin: CylonNet
+MD5Sum:
+ 31983a271bf0479d06a65094ddc48b14             7539 Packages
+ 39e3d1723cd53311b201ba3821914ea6             1786 Packages.gz
+ 8e747f3055a38de1aa2732f3b7993ce0              115 Release
+SHA1:
+ 0f85d5e040da6617c15355cd6042e855e929b849             7539 Packages
+ ba210d63ce2fbf334ad648af563059196c510213             1786 Packages.gz
+ 8baac7b2097dfedc195051aea34fa03f1ef58e24              115 Release
+SHA256:
+ 67a247cecad0dc87a83f597db25ec95a5917d511cb7c39c226013d0504791bd3             7539 Packages
+ d99a1484b36ddff40d10164b228ec787cefd08792e50cfc0a682b9fee486af9d             1786 Packages.gz
+ 32959f783f02ec09ad657b21ed95bb6c93fea527dd9f9de1570bec26eb90a1a9              115 Release
+SHA512:
+ 3261ba5a80bb5221e52ba416680ce9fd1d4d05a5b9e4d8e901247f3f8e2ba3d0693d19199944eb0ddb7ed6d648736dd658d95969ba363229285bfaf09de3f97f             7539 Packages
+ 30413ed6c8c6f1a63f5e23e18869f81d794614ad6c0d5234a34bcfa7795200a4009e1e68f2fb58d149f9d0fc04cd2795cc117e47f32a1f81061e447ab584c6ef             1786 Packages.gz
+ 0bd72e4b04e0326ecd05a1ba4c0deeaaa99695c6e86af90a32abf8247702e9c910c9e2c2784ad107ba9ac8a40864aaf870edadda065974eb887351a0df20ab27              115 Release
+-----BEGIN PGP SIGNATURE-----
+
+iIkEARYKADEWIQRXHa09+vH36lsnH7vbH075IJI98QUCauH88xMcY3lsb25uZXRA
+bG9jYWxob3N0AAoJENsfTvkgkj3xwC8BAK8aBozLAtVYYf+YsElM7G6k/WbxAOaO
+CJiflW02HxumAQD5k7zxTiZE0X8EAWg+j9S1VL9W+wGSR6QUTeLwSKIFBg==
+=J42D
+-----END PGP SIGNATURE-----
